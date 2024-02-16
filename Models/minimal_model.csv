@@ -1,0 +1,16 @@
+Features,Coefficient
+const,79.65075562796777
+Year_rob,0.19948694815304913
+Infant_deaths,-0.06569150123295364
+Under_five_deaths,-0.04148560076759056
+Adult_mortality,-0.045164228906989415
+Schooling,0.10580204479910493
+Economy_status_Developed,3.4504564103577886
+Region_Asia,0.4157369439626648
+Region_Central America and Caribbean,1.8434182631587341
+Region_European Union,-1.2238688519251344
+Region_Middle East,0.19483732493476813
+Region_North America,0.4961935489101954
+Region_Oceania,-1.1710194682873838
+Region_Rest of Europe,0.15525002793409115
+Region_South America,1.6023856986118443
